@@ -214,6 +214,11 @@ hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
+file = "mods/fog.pw.toml"
+hash = "9b61ff7e1250063575036f49135f983ec2045eff2679da3f91696c5f222a0575"
+metafile = true
+
+[[files]]
 file = "mods/forgematica.pw.toml"
 hash = "087576394d08fae9d93bc1ba477caa54b735917bea0572d77072c338defcac93"
 metafile = true
@@ -346,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "f67d69b448e8e57500a95b206ed0d227d29c0b8252dd20933e2ebc242703ae55"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "aa9952383368b149723da95109d872207c82a6eec28245f2163d6386dcd198bd"
 metafile = true
 
 [[files]]
