@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
+hash = "0d94437e2cf84d036ac7a8ca9e229a92a209c804194b55f8a088aee0450e68a8"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "9b61ff7e1250063575036f49135f983ec2045eff2679da3f91696c5f222a0575"
+hash = "d96b96699c28e45a58bbe61c40cb182ce1eb097ecdad6b927385f45b12068493"
 metafile = true
 
 [[files]]

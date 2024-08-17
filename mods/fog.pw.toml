@@ -11,3 +11,9 @@ hash = "f2c48e855a7d997a1b8e24c47a80589bc485c075"
 [update.modrinth]
 mod-id = "WuGVWUF2"
 version = "Rt8bn1jX"
+
+[option]
+optional = true
+description = "Fog provides better fog, but seems to crash with Distant Horizons."
+default = false
+
