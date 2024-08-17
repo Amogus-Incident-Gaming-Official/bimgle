@@ -22,7 +22,7 @@ hash = "576ee8c2bc9dd1b12ccc9ffd0f00a7582cdc52347c135dc363fd7ce2a6ac531a"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
-hash = "291f082374e4bc900d76b158d823ee326110c4781a5e01d5aba5a3e0ad3de669"
+hash = "90cefa4cb6bf123d8cbd50dce6e77ed1e35d703d9b42db12a67d2272f9d9cf7f"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap_entities.json"
