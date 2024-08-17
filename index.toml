@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "f16c5e27b9440e2d39e06022985d2a98033b968fb204e66a0bdaccdb233e52ed"
+hash = "3e8e21d996835743990e172eb67eab34b747531a23d2a80142bd1af385f6e18e"
 metafile = true
 
 [[files]]

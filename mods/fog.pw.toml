@@ -14,6 +14,6 @@ version = "Rt8bn1jX"
 
 [option]
 optional = true
-description = "Fog provides better fog. Distant Horizons seems to disable fog effects."
+description = "Fog provides better fog. Distant Horizons seems to disable fog effects. Currently has a bug where it crashes on opening the config menu."
 default = false
 
