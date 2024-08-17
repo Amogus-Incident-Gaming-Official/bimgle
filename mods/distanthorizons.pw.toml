@@ -14,5 +14,5 @@ version = "OwcStAhe"
 
 [option]
 optional = true
-description = "Distant Horizons adds greatly increased render distances by adding LOD (Levels of Detail) to Minecraft. Essentially, it renders simplified terrain beyond your actual render distance. It seems to be incompatible with Fog."
+description = "Distant Horizons adds greatly increased render distances by adding LOD (Levels of Detail) to Minecraft. Essentially, it renders simplified terrain beyond your actual render distance. It disables fog effects, so using it with Fog is unnecessary."
 default = false

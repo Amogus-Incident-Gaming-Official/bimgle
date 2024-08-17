@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "0d94437e2cf84d036ac7a8ca9e229a92a209c804194b55f8a088aee0450e68a8"
+hash = "a212283d3b2603d79d1c8dce4e940e5ee02adafcbf3160d3ae8698baefc0e4bd"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "d96b96699c28e45a58bbe61c40cb182ce1eb097ecdad6b927385f45b12068493"
+hash = "f16c5e27b9440e2d39e06022985d2a98033b968fb204e66a0bdaccdb233e52ed"
 metafile = true
 
 [[files]]
@@ -481,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "c1918df9e7d093988f06d5443ee9516f447054754335c5426d0516286c25c876"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "fc3b414060d61cdd7fa43523789533c64eb31271b1f579933de899338de08e3f"
 metafile = true
 
 [[files]]
