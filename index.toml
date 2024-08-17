@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/bocchud.json"
+hash = "fdab60c5403d12a689cca297157520eb97a801cca0dcf630adde7c51ff0ae1c0"
+
+[[files]]
+file = "configureddefaults/config/emi.css"
+hash = "a948354651ca556163cebf61eae46c5f363431c1523fe40c231d5a09d9558848"
+
+[[files]]
+file = "configureddefaults/config/inventoryhud.json"
+hash = "b04e92075079ed1c8de41086fe4aeec425a585a711ffc1ced4b24f4f74ee12bc"
+
+[[files]]
+file = "configureddefaults/config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "7dcf3b49bc0b8c76695e16297a3708bfd9f7c8eb030aeb5c74b1949b3b94cd99"
+
+[[files]]
+file = "configureddefaults/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "576ee8c2bc9dd1b12ccc9ffd0f00a7582cdc52347c135dc363fd7ce2a6ac531a"
+
+[[files]]
+file = "configureddefaults/config/xaerominimap.txt"
+hash = "291f082374e4bc900d76b158d823ee326110c4781a5e01d5aba5a3e0ad3de669"
+
+[[files]]
+file = "configureddefaults/config/xaerominimap_entities.json"
+hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "c41ab206053416870afc695af54c1b1d3ba39dbd2c3ffe7feb3aebe3b3e2a93f"
 metafile = true
