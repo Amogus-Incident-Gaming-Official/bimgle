@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
@@ -284,6 +284,11 @@ hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
 metafile = true
@@ -371,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "b2f208a76cad06abe320fba893adfeb40e2cc1064e4560155657f2229b2387ab"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
 metafile = true
 
 [[files]]
