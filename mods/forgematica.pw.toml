@@ -11,3 +11,8 @@ hash = "8644040c5a015ac01b4b8cf8e1eebbeef0ffeffa"
 [update.modrinth]
 mod-id = "dCKRaeBC"
 version = "1YPqrqGm"
+
+[option]
+optional = true
+description = "Forgematica provides schematic support, but it by default uses sticks as a tool, causing inconveniences when holding sticks. Additionally, Create's Schematic and Quill and Schematicannon items can be used to similar effect."
+default = false

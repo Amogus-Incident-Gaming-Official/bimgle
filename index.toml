@@ -59,6 +59,11 @@ hash = "79a3fb06122208f61eede6e34a4ed3ea15107cd89ebcbfd8afc2903a6fa01a8a"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "71d9fa13271f1c96b9c00f8a52b5d370134053bcd1d26223362e9970d1358e10"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
 metafile = true
@@ -116,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "8718408c4d35357a00a19defc2c8bea8eb109f3a69ea0ac0b1e2ca27f3c95283"
 metafile = true
 
 [[files]]
@@ -184,6 +194,11 @@ hash = "96b4f076531d93845801037766543ef06c7c07cb631f7f24db06c2a3296bfaa0"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "37f4f289418f91d8740383fb80f17864c08ffae8278d88184e653f60329216e9"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -200,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgematica.pw.toml"
-hash = "daf4bf8371002ed20eb750efd5f7730caa9c751df256086094a3caeefac15f5a"
+hash = "087576394d08fae9d93bc1ba477caa54b735917bea0572d77072c338defcac93"
 metafile = true
 
 [[files]]
@@ -364,6 +379,11 @@ hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "dcf9f39e61450656765c300f03df2151ebde872ac004428b5f2532c2fbe7c1c1"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
 metafile = true
@@ -396,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "236f2081c7d05b4aedd9a44e57434818332f63091645d7d3b2fd6356de0646aa"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "e68fe3fc2dd0464b10f7e03c3b2cfcd64fa0701dbfa43593e06d358515ca4579"
 metafile = true
 
 [[files]]
