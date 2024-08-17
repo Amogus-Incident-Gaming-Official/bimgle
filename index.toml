@@ -61,6 +61,11 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "9877a4268206623fd1059d4d2a5735385a7d69ac400e0446f8d29f039a66e6d7"
+metafile = true
+
+[[files]]
 file = "mods/concentration.pw.toml"
 hash = "9ebaf05b76cbcf70a0db5916d9396696a660f90cc2459be99367b377cfdbcbe8"
 metafile = true
@@ -81,6 +86,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
@@ -88,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "0bfa93d487f91b526d83622245091b3fec1d27c1b5b241b75bb26ea8e04806a8"
 metafile = true
 
 [[files]]
@@ -353,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "bf169dd7307af346fd880833a4adc23a4dfb8051e9703c8519f3a105f4a466b9"
 metafile = true
 
 [[files]]
