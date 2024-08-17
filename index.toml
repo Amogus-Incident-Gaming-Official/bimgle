@@ -326,6 +326,11 @@ hash = "236f2081c7d05b4aedd9a44e57434818332f63091645d7d3b2fd6356de0646aa"
 metafile = true
 
 [[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "64fbb565e6f441cacd9007431810a2798061b637741099d01adc92b784dc51ad"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
 metafile = true
