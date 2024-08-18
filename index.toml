@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "7ee254b97bf5eddcc2456c558e5b2faa8f292b09160791044c2029f58b750da0"
+hash = "7cfc0e01f487f385b420af27e14dcdf1ce6f912c9ffecfa933fcdbb93c21e279"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
+hash = "207458931062fe36d37c913163e4decf8296f6bb1f2f6a30e8750459489c129e"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "aa9952383368b149723da95109d872207c82a6eec28245f2163d6386dcd198bd"
+hash = "2c9a47d50bdcc05d821874e0b599bd31bcecfea6151822684fe4429d2143762b"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a4f51b0ae9d618e46d8d1c0b08a32d1639aa6338a8400ec14d61dbca1af272af"
+hash = "e4e212406093647e1b91c2ec796d102c24e36920c71dd34fecd3d42a7f98f217"
 metafile = true
 
 [[files]]
