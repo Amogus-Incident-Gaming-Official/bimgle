@@ -344,6 +344,10 @@ hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
 
 [[files]]
+file = "mods/hexal-forge-1.20.1-0.3.0-3-skyevg-unofficial.jar"
+hash = "319c97bf00a879d34c146cbbfcec6c29f97a591abc92c293281d99fff3cf9605"
+
+[[files]]
 file = "mods/icterine.pw.toml"
 hash = "1bc981bf46b07ba284e9e89524fa2ed32d121bf9aa295eeb7c10af5d816cc9bb"
 metafile = true
@@ -560,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
+hash = "b592adf84840a655afc338c00be282ebe451a295a3ef73ec9d6c54e84a7803c2"
 metafile = true
 
 [[files]]
