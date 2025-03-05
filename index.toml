@@ -134,6 +134,11 @@ hash = "fabe07c86b346aec8b1e0cf2c4e5fd030ba819b945f43528b9d1d9ace912697d"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+hash = "1f6fe88a1e44e31f32d5efb1f359d45b1961c0869b7329f32280177d363a014f"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
