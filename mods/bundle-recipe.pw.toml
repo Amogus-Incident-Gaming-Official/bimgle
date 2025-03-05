@@ -1,13 +1,13 @@
 name = "Bundle Recipe"
-filename = "bundle-recipe-v1.0.1.jar"
+filename = "bundle-recipe-1.20.4-v1.1.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Hkc2j5Bf/versions/Xh917JQv/bundle-recipe-v1.0.1.jar"
+url = "https://cdn.modrinth.com/data/Hkc2j5Bf/versions/TcrV06Ct/bundle-recipe-1.20.4-v1.1.0.jar"
 hash-format = "sha1"
-hash = "a4fd7a6cad10c239923d212fcbf05cf11827c9f0"
+hash = "67dc13d54eb29391a6f6c83b1aac861272649e3a"
 
 [update]
 [update.modrinth]
 mod-id = "Hkc2j5Bf"
-version = "Xh917JQv"
+version = "TcrV06Ct"
