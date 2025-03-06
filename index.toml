@@ -246,6 +246,16 @@ hash = "fabe07c86b346aec8b1e0cf2c4e5fd030ba819b945f43528b9d1d9ace912697d"
 metafile = true
 
 [[files]]
+file = "mods/create-encased.pw.toml"
+hash = "34b030a711dcf83be5174357848031b9c2bba421c7ce6db9bbf25b487c461310"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "1ec110bfa32f314b86c2cbf15612e8fe2caf2a7aca30c0c216ea1b2c38b64d0b"
+metafile = true
+
+[[files]]
 file = "mods/create-origins-forge.pw.toml"
 hash = "ba259bbc97b883548a4b7a27b478a88374167a10ae1d0890040437ba7e20d5f4"
 metafile = true
@@ -721,6 +731,11 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "8a842b500e29db000d882eaf46fadf52fa56ddf097a5ec3762f61cd251c6aaad"
+metafile = true
+
+[[files]]
+file = "mods/numismatics.pw.toml"
+hash = "63504f8d1db513fa1a78c214d824be5a9ddba732850a461cae0bb1029b8462b7"
 metafile = true
 
 [[files]]
