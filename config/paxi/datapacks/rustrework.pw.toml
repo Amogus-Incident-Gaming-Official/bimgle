@@ -1,0 +1,13 @@
+name = "Rust's Origins Rework"
+filename = "Rust's Origins Rework 1.4.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j9tIAXDS/versions/pDamVwXm/Rust%27s%20Origins%20Rework%201.4.0.zip"
+hash-format = "sha512"
+hash = "d0ff675be7db2e5323958a0401c65311c64a7f0e9707f3b5b82669f355ef92489cd55689731c27037f5bf73cdf3f583796ea39f08ec2b607bc5ac031baae49d2"
+
+[update]
+[update.modrinth]
+mod-id = "j9tIAXDS"
+version = "pDamVwXm"

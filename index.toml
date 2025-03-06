@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/blissful-origins.pw.toml"
+hash = "c5343075d57efa821e5b6dca13549ba943d74cde62d63aebe146d240e8bef66f"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/rustrework.pw.toml"
+hash = "7da38828560bf0dcd2857b4542968a4763e13e621c1f0f90aff7a48f49bfa89e"
+metafile = true
+
+[[files]]
 file = "configureddefaults/config/bocchud.json"
 hash = "fdab60c5403d12a689cca297157520eb97a801cca0dcf630adde7c51ff0ae1c0"
 
@@ -51,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/apugli.pw.toml"
+hash = "6bc5a35e0d7005a96e7b577ea579041ad393cd27dd8b692d1f53e7ee05639dd2"
 metafile = true
 
 [[files]]
@@ -156,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "b110d17098d959631ac663a006fe3145784048d5b443483189949ad8240fb82c"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
@@ -304,6 +324,11 @@ hash = "b1349273e8958724d40ec5c2a88003e8d1b19cc1f6b27863873eec06e71c5751"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "c02d5558f7c034fbb180e794403ed738b57ee89b2894cd650ae6b16b661ac074"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
 metafile = true
@@ -316,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "fe84bc0e7e62faff3f190916aac60d058a60d2e921285e234749221e9f03fbf8"
+metafile = true
+
+[[files]]
+file = "mods/frostiful.pw.toml"
+hash = "f369254990a7c1c4e3c0e80ff7971badbfa57840a36c2f4d238b4d3328d94cfa"
 metafile = true
 
 [[files]]
@@ -395,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "124201a3e9f804b7e3ded32d2cb415743f8b91cf124c7f7491bae915e434c4aa"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "0a83314a5c0d8d8f356bd3a8a7a57a0b09133855a59c8ec6791a470c174d57ee"
 metafile = true
 
 [[files]]
@@ -567,6 +602,16 @@ hash = "e86bd247c1592905b6bfaf6361552f049e3f2360a70c2ee57d88ba2dab3a674e"
 metafile = true
 
 [[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "736d3d09ea2fb87f8477f72d81a1f17b8ba6ad61a9cee9c122a37b2ccbdd62c9"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
@@ -579,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
 
 [[files]]
@@ -634,6 +684,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "236f2081c7d05b4aedd9a44e57434818332f63091645d7d3b2fd6356de0646aa"
+metafile = true
+
+[[files]]
+file = "mods/scorchful.pw.toml"
+hash = "5a9912f8d9dbc7f3910372f88c947b6078849fd9aec950854868867618e44ba4"
 metafile = true
 
 [[files]]
@@ -712,8 +767,43 @@ hash = "cfcd05b1dce71cc24d57fe38bd516164a064a7e44577a97d9966446de3960f2d"
 metafile = true
 
 [[files]]
+file = "mods/switchy-inventories.pw.toml"
+hash = "2feef6f3f02342af84b8af9a7db7f0250f5b75b65aa6e2285dddfa02ad6337f8"
+metafile = true
+
+[[files]]
+file = "mods/switchy-proxy.pw.toml"
+hash = "0717c21d2a94d2ab31ad00d3331a0c727a23ab8f3634aa230e64ec21d605da16"
+metafile = true
+
+[[files]]
+file = "mods/switchy-status.pw.toml"
+hash = "a259cd09826eb0cfe54c324cb765a4a1c8a1f58b7d4ed99f5f24e1b62ade0633"
+metafile = true
+
+[[files]]
+file = "mods/switchy-teleport.pw.toml"
+hash = "5750f5daa98c0b0543a297502078e17e32225cd322072c66333e88a6f37266d5"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "48189158ff32922badb4a66b7ea55d688d7b97d52863ff33ffd158ea3a7a8604"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
+metafile = true
+
+[[files]]
+file = "mods/thermoo.pw.toml"
+hash = "5e6b7f02205f1f3d3447e6456ab7ccdf5857e68b8ba7671985412cdbee908710"
+metafile = true
+
+[[files]]
+file = "mods/tinkerers-statures.pw.toml"
+hash = "9f8bf08de796818ab1a4d7fbfefd15fa1c69e8411dce31065863b319011159ca"
 metafile = true
 
 [[files]]
