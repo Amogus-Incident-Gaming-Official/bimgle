@@ -1,0 +1,13 @@
+name = "Hellion's Sniffer+"
+filename = "Sniffer+-forge-1.20.1-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVgHoKxg/versions/V7DEKC4v/Sniffer%2B-forge-1.20.1-0.3.0.jar"
+hash-format = "sha512"
+hash = "70577c888f713c80753ccd324b5453cf3de4a96f5a7db3c013d83e6c61f154676a7ff2299211fe681d1db58e5bfe95296a65d8ed46a8125693bbac54d0de0501"
+
+[update]
+[update.modrinth]
+mod-id = "BVgHoKxg"
+version = "V7DEKC4v"

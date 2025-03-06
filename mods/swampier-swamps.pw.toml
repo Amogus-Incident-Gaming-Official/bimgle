@@ -1,0 +1,13 @@
+name = "Swampier Swamps"
+filename = "swampier_swamps-forge-1.20-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C909jS7n/versions/aa0JDqJs/swampier_swamps-forge-1.20-4.0.0.jar"
+hash-format = "sha512"
+hash = "be2e9e79ffff600e08042e6c9698d1b5bbda914a0aa4bc494e199621ba01106046f99fa687d03936a2219b43fad31354ffb2e76df33d0c3892597c824188ee79"
+
+[update]
+[update.modrinth]
+mod-id = "C909jS7n"
+version = "aa0JDqJs"

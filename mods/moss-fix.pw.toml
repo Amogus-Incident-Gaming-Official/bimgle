@@ -1,0 +1,13 @@
+name = "Moss Fix"
+filename = "mossfix-1.6.1-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2xPm31lF/versions/r9pHBUxh/mossfix-1.6.1-forge.jar"
+hash-format = "sha512"
+hash = "74d7e92dcfc3228abf88667521b70a8d9f19e3782fa5027de463108b2dd2b00c48c3fdfcc74e28d79b7dc8e164785dd40cff27ef93f9562a63699b0b70b5b0ac"
+
+[update]
+[update.modrinth]
+mod-id = "2xPm31lF"
+version = "r9pHBUxh"
