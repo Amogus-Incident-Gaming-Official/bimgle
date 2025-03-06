@@ -39,6 +39,18 @@ file = "configureddefaults/config/xaerominimap_entities.json"
 hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
+file = "kubejs/server_scripts/advancement_removal.js"
+hash = "3db8837f89121fa614f20a3f92ecfa1e527d88bd19f4f6187fc91539c9e134c5"
+
+[[files]]
+file = "kubejs/server_scripts/origin_command.js"
+hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
+
+[[files]]
+file = "kubejs/server_scripts/starting_items.js"
+hash = "13d6a46f126b87c3dd7c6efebefab6aa578d4197447f39a9e729bd689ce87c27"
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "d3a18bbfbb1436f8917f5275ce336de3fc6012dfe44ac074a4cc616976bae038"
 metafile = true
@@ -754,6 +766,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "dbb83ae72868c1d9a3b4c2a32b7f083348ee427ecffc4b149010f7eca7c310c5"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "056c481f39ce13ff8b3fa09fc5dd6b6549676135de8eb890ddc96ad180a4e383"
 metafile = true
 
 [[files]]
