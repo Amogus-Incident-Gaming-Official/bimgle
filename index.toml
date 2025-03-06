@@ -69,6 +69,14 @@ file = "configureddefaults/config/xaerominimap_entities.json"
 hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
+file = "defaultconfigs/ftbultimine-server.snbt"
+hash = "ef15c3f7c929db0c8e2a27984a251569b9748a663dd8738590783225e117c53f"
+
+[[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
+hash = "ef25a939fcbba650f18092dc0b7f9a789ae1891f362667ca5be681c92e624803"
+
+[[files]]
 file = "kubejs/server_scripts/advancement_removal.js"
 hash = "01cc64e0694d4044800c0e7463d5f6e5032706d3ac63aa7ccbcf4d88207419c3"
 
