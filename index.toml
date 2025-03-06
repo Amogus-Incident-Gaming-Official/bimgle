@@ -34,6 +34,11 @@ hash = "d3a18bbfbb1436f8917f5275ce336de3fc6012dfe44ac074a4cc616976bae038"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "f6cb39881349ebcd51d5ea8563110dd0fb861b66c18f7a261eabe1ef41563cd2"
 metafile = true
@@ -161,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "5e7295ea704f3f3b001d30e67b736ba8da2221ffbf27cab3e9bb9dc413435774"
 metafile = true
 
 [[files]]
@@ -329,6 +339,11 @@ hash = "ad38d60ef123c7e36e2f688c4a98b94f038bfff7db8e2cd7f5a5c0f7c9d7838e"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "f792f78aeaccfe16c55999ebe8b2f608704076cfb45ecd538633c71c7af036e5"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "20e76ed240baf9b557b3225870b26fa500e6d9b696df3640060056c31086db47"
 metafile = true
@@ -408,6 +423,11 @@ hash = "15b77b20a19c68905e585fb354932d74cd5b454396cd00a6a48a2b05aa83552c"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "fd978b432d912e1b9cd943f7ab46972bde14148acec5ff25fea4a8a7c287153d"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "9360bfe3f55dffec1013b2e8ed4efeab04f2e1afb4366e8c9c4780536d836eff"
 metafile = true
@@ -463,6 +483,11 @@ hash = "28e1a9beef13c68d9c6cc890649d5ce6c1e54c50026ade79fbb09dff57e55578"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "15aa420ec9cf1482e0bcce52197f1f7f6208a3fead0dfabbdf655e122494040f"
+metafile = true
+
+[[files]]
 file = "mods/mcmouser.pw.toml"
 hash = "5b99ac85876e146d13a4efd1d9ea245d0768ba17d5804cd3d401210a8d44b907"
 metafile = true
@@ -490,6 +515,11 @@ metafile = true
 [[files]]
 file = "mods/moreiotas-forge-1.20.1-0.1.0-5.jar"
 hash = "127054c462271adc93154a40ea9ef7c05da95847abc390cb21326a0210a250d9"
+
+[[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "33b81bba2d8a156fb1115be572f01c4e7e4bc76d83421bfa3c884e75880bdeeb"
+metafile = true
 
 [[files]]
 file = "mods/moss-fix.pw.toml"
@@ -537,6 +567,16 @@ hash = "b99b30e7ee2bc980b5efa7c5ae5e6563f2f629917805bd5501139b371e0adfad"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "c453c405f32b0b548f1ad64d531c77e6752f636e5564f706d350b4916fb4dae3"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "adcdffc1a10a3d195906d026e809fe1177a9d84334597fb28e49fd54ec48c389"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
@@ -557,6 +597,11 @@ hash = "5f26f669842f96d229e1421d9cf997b79515592fe9d50607aeef574a4e501daa"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "6f13cf7ee6ed32570b37f8c08bcdbc07ac31ea959d58c9f4fd618bffe56b3c9e"
 metafile = true
@@ -574,6 +619,11 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "b2f208a76cad06abe320fba893adfeb40e2cc1064e4560155657f2229b2387ab"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "442f784b7c8e3d3231e407a9af4530c16fff9c301a5f57144fb5d895c754ded9"
 metafile = true
 
 [[files]]
@@ -662,6 +712,11 @@ hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "061f2fdc7a914407b29a5066980f5e5c72095a61bb008d7ce2d3d28956d3f15a"
 metafile = true
@@ -674,6 +729,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "5faff2689a31c0e16d05b9b4cc359394ff4b398b194cb0d1334753d1216c8d85"
 metafile = true
 
 [[files]]
