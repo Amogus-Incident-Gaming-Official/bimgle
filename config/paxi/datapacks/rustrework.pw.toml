@@ -3,11 +3,11 @@ filename = "Rust's Origins Rework 1.4.1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/j9tIAXDS/versions/dETrNhC4/Rust%27s%20Origins%20Rework%201.4.1.zip"
+url = "https://cdn.modrinth.com/data/j9tIAXDS/versions/DSbuPI0a/Rust%27s%20Origins%20Rework%201.4.1.zip"
 hash-format = "sha512"
-hash = "c023e1b5c7b85fb02097eaa184e99aca51ab082f92bf57608b082381b82d60a888dcce40f7303a21dc65dca575b014b9464a98209a6698a1c7c8079159052ae7"
+hash = "6017d345b90de0558db1b473d8e49b0a0ac4017411b6462dfd60e28d173aec085af3a99aeb1456d1c01213b388568017354bee8ea4412e652a6080c222de2157"
 
 [update]
 [update.modrinth]
 mod-id = "j9tIAXDS"
-version = "dETrNhC4"
+version = "DSbuPI0a"
