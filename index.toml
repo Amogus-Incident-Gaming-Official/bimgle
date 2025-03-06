@@ -114,11 +114,6 @@ hash = "81eb8658893b22a41099da514fa0c19651320bf538a8d74417ae252ab507d640"
 metafile = true
 
 [[files]]
-file = "mods/bundle-recipe.pw.toml"
-hash = "b4deac71d5d0e7b62e414b11889661c78ec88c0c3318e073b9e993251582c77b"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
