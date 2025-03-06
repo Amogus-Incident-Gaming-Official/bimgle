@@ -141,11 +141,6 @@ hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "71d9fa13271f1c96b9c00f8a52b5d370134053bcd1d26223362e9970d1358e10"
 metafile = true
