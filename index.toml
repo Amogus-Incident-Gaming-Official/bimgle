@@ -812,6 +812,11 @@ hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
 metafile = true
 
 [[files]]
+file = "mods/thermoo-patches.pw.toml"
+hash = "2ba1521d14ba5332b6a676a3cd8ce1847da8ec706f16f4ce7c9e0548bc2c3d16"
+metafile = true
+
+[[files]]
 file = "mods/thermoo.pw.toml"
 hash = "5e6b7f02205f1f3d3447e6456ab7ccdf5857e68b8ba7671985412cdbee908710"
 metafile = true
