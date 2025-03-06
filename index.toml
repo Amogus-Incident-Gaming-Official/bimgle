@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "93d329f4856d0041b94db2bba6d3a73fce420774be07b51d0fd05400ef22ca75"
+
+[[files]]
 file = "config/paxi/datapacks/blissful-origins.pw.toml"
 hash = "c5343075d57efa821e5b6dca13549ba943d74cde62d63aebe146d240e8bef66f"
 metafile = true
@@ -9,6 +13,10 @@ metafile = true
 file = "config/paxi/datapacks/rustrework.pw.toml"
 hash = "1ca9c7b8d7e1ebc8960731af70005cd9e1a0661b0393041970d1e9ee317cab68"
 metafile = true
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "b065935b9b28e4ac6c81c0e303a63056270893de9cb80ef8d7731d41e657e2e7"
 
 [[files]]
 file = "configureddefaults/config/bocchud.json"
@@ -40,7 +48,7 @@ hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
 file = "kubejs/server_scripts/advancement_removal.js"
-hash = "3db8837f89121fa614f20a3f92ecfa1e527d88bd19f4f6187fc91539c9e134c5"
+hash = "01cc64e0694d4044800c0e7463d5f6e5032706d3ac63aa7ccbcf4d88207419c3"
 
 [[files]]
 file = "kubejs/server_scripts/origin_command.js"
