@@ -39,6 +39,11 @@ hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "416c089224a401ec7c0ef60ae6f1f8555e783f89ec6aba49d72f41c58d7955d2"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "f6cb39881349ebcd51d5ea8563110dd0fb861b66c18f7a261eabe1ef41563cd2"
 metafile = true
@@ -235,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "8140eaf19097d7a9671c15fa6893b2577eaa16a5b01e0406d7b3cc4f25ba2dbc"
+hash = "a5b1ac99fc9c5500b1ef54a0572144bdc1614f7d7165e6ac67ca21ae86432b6e"
 metafile = true
 
 [[files]]
@@ -404,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "2d6a9622b8ef1f30f413b389108e985ef7b86030ce1b4de6648adb8b20e9dd3f"
+hash = "5c10779d56d097b81709eb20b8ee3da92d0e959e8d3a0519fb7833498cfe3864"
 metafile = true
 
 [[files]]
@@ -519,11 +524,6 @@ hash = "127054c462271adc93154a40ea9ef7c05da95847abc390cb21326a0210a250d9"
 [[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "33b81bba2d8a156fb1115be572f01c4e7e4bc76d83421bfa3c884e75880bdeeb"
-metafile = true
-
-[[files]]
-file = "mods/moss-fix.pw.toml"
-hash = "57d4eaaaa8727febcb07a69c48b07efd153c356ddc4852754e50754a43593487"
 metafile = true
 
 [[files]]
