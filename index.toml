@@ -264,6 +264,11 @@ hash = "59be985c78c01071b0d557d2c283292a8981f5b2ed7fd5ca9f1c4c2d9889bb5e"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "1938c7af7e200ebf6536e7e16c992fef16621487e81f60c3c9db33881a46aa8c"
+metafile = true
+
+[[files]]
 file = "mods/experimental-settings-disabler.pw.toml"
 hash = "89084ab71f9a1f656799a58b9cbb53801fd883c60f75f97f777c5beb87e4cfaf"
 metafile = true
@@ -684,6 +689,11 @@ metafile = true
 [[files]]
 file = "mods/stateobserver.pw.toml"
 hash = "3b3e9f0dde7b6b3f3be1a65e63583b36636292859e397668b9cdcd3a810b0b28"
+metafile = true
+
+[[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "95b2e31e6ba4fb83fcada362a8f1c4466006df752808f72a846a9ea06ac6f905"
 metafile = true
 
 [[files]]
