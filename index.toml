@@ -179,6 +179,11 @@ hash = "15421ecee42367e05f83c1a43fce482f1bf0b5a1d33ada47a82c4182e7958af3"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "a45bbe1f9c5947251c59bb51adfb7493e4023d5728dab1e6b8f116fdf8bf896f"
+metafile = true
+
+[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "832ce23a285dd86387eb7950f6159cc0ec0cdda36dad4b7036c35a99001b6943"
 metafile = true
@@ -804,6 +809,11 @@ metafile = true
 [[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "20ae985a3d4a13c4fee0abbf2e37b152750d606ffd9aeb3d94b823d47c360fe0"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7f5a7cc6134e81f6f9411e353d5f92bee50fba2edfbc738b1fb3732a54cf51ba"
 metafile = true
 
 [[files]]
