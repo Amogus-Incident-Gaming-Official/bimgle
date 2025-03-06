@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/dismount-entity.pw.toml"
-hash = "014cf6e6912ff9476c0ae25b92b2c61aa71c5f780ec670b43e3b30602620bde3"
+hash = "5a9c6520e29161021b3bdcdc1ee4d160f0fb0f5034a55e0d608df4e3d48640dc"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "a5bcdcaa6a90cc85a2cdb0c484292209e07a613b99f03ace83fbebfc10b3171b"
+hash = "2681c24f0db051f0f0e988511085ef65d5409863449e924b676fe03b5ce7673c"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "07c8a5f7d302ad39965ba633465cf9d4f470a575263306e61e4caebeac3417a0"
+hash = "5c96d8d0c9b686291397326179f04ca3f7ba41d5ef912984ad5bdf3ae66b42f2"
 metafile = true
 
 [[files]]
@@ -728,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "f253c2bb5afd80dca63f0a62880f1c43fdf7662964a631def6ba55397edee8df"
+hash = "058190a6f9fd5aca3859b4c274272412e1c66fcaaa5d3e4212357e1d246f0276"
 metafile = true
 
 [[files]]
@@ -748,12 +748,12 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "93df769832d512e9702ea78b40e28f4e1332e9548ab3cf8182c3466ccd668239"
+hash = "e079fd37c41a102621a9d3ee5b8cdbc332fd28ec007a28a019d30b35d3829b41"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "df3dab0a368d87080cf735e0c0a253962e47a9ed6b40054736b52e375a471e2d"
+hash = "f30b7c49b72607c07fc8b3a06355d03ffdbb0b9d6d2e9bccbf994b8299cc8f5f"
 metafile = true
 
 [[files]]
@@ -778,27 +778,27 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "2feef6f3f02342af84b8af9a7db7f0250f5b75b65aa6e2285dddfa02ad6337f8"
+hash = "f4f8f0d8c6b2dc8b29bb4f1b3ef7ee8089dff1ee7e20b7b5cd2e3fd75c301726"
 metafile = true
 
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
-hash = "0717c21d2a94d2ab31ad00d3331a0c727a23ab8f3634aa230e64ec21d605da16"
+hash = "511a41783913cf80c17adc48963ab91e244c6c5fcaf200b34738f399ea336606"
 metafile = true
 
 [[files]]
 file = "mods/switchy-status.pw.toml"
-hash = "a259cd09826eb0cfe54c324cb765a4a1c8a1f58b7d4ed99f5f24e1b62ade0633"
+hash = "0edcd266596586044cf5d2b923569e14d9f151e1755764b9651f798023d02bc9"
 metafile = true
 
 [[files]]
 file = "mods/switchy-teleport.pw.toml"
-hash = "5750f5daa98c0b0543a297502078e17e32225cd322072c66333e88a6f37266d5"
+hash = "41065c4179b4b50ed123ce85360479155b5aeaa647fbc58a39359e856a02e5f8"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "48189158ff32922badb4a66b7ea55d688d7b97d52863ff33ffd158ea3a7a8604"
+hash = "d9ca5fba7d60bf003484db60c553e1382098528c9dff9f2bd4cd3bc69ec9ba38"
 metafile = true
 
 [[files]]
