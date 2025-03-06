@@ -204,6 +204,11 @@ hash = "fabe07c86b346aec8b1e0cf2c4e5fd030ba819b945f43528b9d1d9ace912697d"
 metafile = true
 
 [[files]]
+file = "mods/create-origins-forge.pw.toml"
+hash = "ba259bbc97b883548a4b7a27b478a88374167a10ae1d0890040437ba7e20d5f4"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "1f6fe88a1e44e31f32d5efb1f359d45b1961c0869b7329f32280177d363a014f"
 metafile = true

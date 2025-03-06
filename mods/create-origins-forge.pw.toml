@@ -1,0 +1,13 @@
+name = "Create: Origins (Forge)"
+filename = "createorigins-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G17Yrkds/versions/Htv1XAh7/createorigins-1.0.0.jar"
+hash-format = "sha512"
+hash = "a63d3c64bf0392692af2c7446dc1dd4087b6f275bfdd9a9ff59a1a6ae55c21abbaec99baf1a6cf316da3524b6fb10cb727ae8490716c7194dd4b50b7d07acf2c"
+
+[update]
+[update.modrinth]
+mod-id = "G17Yrkds"
+version = "Htv1XAh7"
