@@ -1039,11 +1039,6 @@ hash = "726e7bce053aab92309cf00045f8ac6c89fe3cbf022dd94386e9dd99e5b510cb"
 metafile = true
 
 [[files]]
-file = "mods/thirst-was-taken.pw.toml"
-hash = "b5179f1f191932d600789d8984793990bbdf64aad5a8e77e3839f9f61b5654c8"
-metafile = true
-
-[[files]]
 file = "mods/tinkerers-statures.pw.toml"
 hash = "9f8bf08de796818ab1a4d7fbfefd15fa1c69e8411dce31065863b319011159ca"
 metafile = true
