@@ -216,11 +216,6 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
-file = "mods/cold-sweat-origins-addon.pw.toml"
-hash = "7fe82b7a19118d7da56d958616f0c3cb0cb131b4a4d7886b05b30988a05ac4f6"
-metafile = true
-
-[[files]]
 file = "mods/cold-sweat.pw.toml"
 hash = "ad9aa872f766d49789127cea7ded0d0e43255f3fc3e50c019171431fea2de28e"
 metafile = true
