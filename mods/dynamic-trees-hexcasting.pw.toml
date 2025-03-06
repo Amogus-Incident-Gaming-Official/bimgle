@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Hexcasting"
+filename = "dthexcasting-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gQRjFWM9/versions/OGHH9P6K/dthexcasting-1.0.1.jar"
+hash-format = "sha512"
+hash = "9d75e61aa22141292657ff6c4a039d173ac7773c3e234858d23aeb1fda7e0147332a11277b82e77d5e9ba0d22eb99616868296ada1b00e58e4a81226f1e76fcd"
+
+[update]
+[update.modrinth]
+mod-id = "gQRjFWM9"
+version = "OGHH9P6K"

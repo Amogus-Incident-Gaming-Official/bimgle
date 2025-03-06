@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Biomes O' Plenty"
+filename = "DynamicTreesBOP-1.20.1-3.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8QHjGuhP/versions/SGtKekV6/DynamicTreesBOP-1.20.1-3.3.2.jar"
+hash-format = "sha512"
+hash = "5f0165a107f21004d53e8fe3c09a4a4e367b737cd66ef9a59bae17fec93373c813384d0a842944ca6d83431acc856675325ea2adf87e1fda0d8942f1b5429af8"
+
+[update]
+[update.modrinth]
+mod-id = "8QHjGuhP"
+version = "SGtKekV6"

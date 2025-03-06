@@ -1,0 +1,13 @@
+name = "[Let's Do] Bakery - Farm&Charm Compat"
+filename = "letsdo-bakery-forge-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oNB5jhlA/versions/U0MouAAj/letsdo-bakery-forge-2.0.4.jar"
+hash-format = "sha512"
+hash = "c70593efda31c1e9ac79e74c2540e9702328db0b4cd777fc28348b5b4c763e932125f58f186d185cd96433d977051ca678836ad1b256e8381bf26f5798074560"
+
+[update]
+[update.modrinth]
+mod-id = "oNB5jhlA"
+version = "U0MouAAj"

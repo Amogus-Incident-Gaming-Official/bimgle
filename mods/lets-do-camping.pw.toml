@@ -1,0 +1,13 @@
+name = "[Let's Do] Camping"
+filename = "letsdo-camping-forge-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uJXTNuf0/versions/nCrrOl0N/letsdo-camping-forge-1.0.4.jar"
+hash-format = "sha512"
+hash = "72b635d6b1478e6a835f6bf13d9ce0ec05c97f085fbb0299f661cda6122b56acc6811f9cabc8797249eec5a799a2010b25e88ec273b56dbeee20418a5a1cd918"
+
+[update]
+[update.modrinth]
+mod-id = "uJXTNuf0"
+version = "nCrrOl0N"
