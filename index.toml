@@ -134,6 +134,11 @@ hash = "81eb8658893b22a41099da514fa0c19651320bf538a8d74417ae252ab507d640"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "c7bdec4b71960d375ae66cd02bf550531d386aa58c207cf39b5a26d5d3574f09"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
