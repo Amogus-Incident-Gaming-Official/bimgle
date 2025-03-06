@@ -5,6 +5,18 @@ file = "config/ars_nouveau-common.toml"
 hash = "93d329f4856d0041b94db2bba6d3a73fce420774be07b51d0fd05400ef22ca75"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/bloodmagic/weapon_attributes/daggerofsacrifice.json"
+hash = "3958b89a2fd9cd0f6a897543b5daa489e48b518e4470fc3e5e95e31d10701142"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/irons_spellbooks/advancements/grant_patchouli.json"
+hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
+hash = "44154df71a73b9140f64070c06a9e21301fc5edc615fc57e17d6b20be4573309"
+
+[[files]]
 file = "config/paxi/datapacks/blissful-origins.pw.toml"
 hash = "c5343075d57efa821e5b6dca13549ba943d74cde62d63aebe146d240e8bef66f"
 metafile = true
@@ -126,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/better-chunk-loading-forge-fabric.pw.toml"
 hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
 metafile = true
 
 [[files]]
@@ -949,6 +966,11 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "d9ca5fba7d60bf003484db60c553e1382098528c9dff9f2bd4cd3bc69ec9ba38"
+metafile = true
+
+[[files]]
+file = "mods/tcintegrations.pw.toml"
+hash = "2f954df1f688216f383348774dc1223c6696bd711e6395eae892c208cf66510b"
 metafile = true
 
 [[files]]
