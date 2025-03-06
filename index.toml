@@ -131,11 +131,6 @@ hash = "5994f2b1c61f6d8211413c1cb999464fc5e87439129f6f0b086daf64fda9ec96"
 metafile = true
 
 [[files]]
-file = "mods/autoattack.pw.toml"
-hash = "3d1efc586332e59552b1958ff0e763b19c44082737e764e590b62ae27994d178"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
