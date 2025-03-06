@@ -22,8 +22,18 @@ hash = "c5343075d57efa821e5b6dca13549ba943d74cde62d63aebe146d240e8bef66f"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/create-immersive-aircrafts-data-pack.pw.toml"
+hash = "9bbd764bc260954610ba2b03f74d782293914adb44edfd1d058b6b215d6265d2"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/rustrework.pw.toml"
 hash = "1ca9c7b8d7e1ebc8960731af70005cd9e1a0661b0393041970d1e9ee317cab68"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
 metafile = true
 
 [[files]]
@@ -273,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "1ec110bfa32f314b86c2cbf15612e8fe2caf2a7aca30c0c216ea1b2c38b64d0b"
+metafile = true
+
+[[files]]
+file = "mods/create-man-of-many-planes.pw.toml"
+hash = "05e9862287954ca4ff2f1a4b160f73ee43ea3573d90919de9a4202d54da93adb"
 metafile = true
 
 [[files]]
@@ -687,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/mafglib.pw.toml"
 hash = "28e1a9beef13c68d9c6cc890649d5ce6c1e54c50026ade79fbb09dff57e55578"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "b482e3d990ca0981e6a9204436745869b77b4870ea9c5afa95e6301da1d871b6"
 metafile = true
 
 [[files]]
