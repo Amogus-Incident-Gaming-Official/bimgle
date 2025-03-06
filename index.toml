@@ -121,6 +121,11 @@ hash = "5994f2b1c61f6d8211413c1cb999464fc5e87439129f6f0b086daf64fda9ec96"
 metafile = true
 
 [[files]]
+file = "mods/autoattack.pw.toml"
+hash = "3d1efc586332e59552b1958ff0e763b19c44082737e764e590b62ae27994d178"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
@@ -148,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "94e6f056dc615fac3ee327ce73d147188e6ca9f4269c4bd6e62d5a82edf7acd2"
 metafile = true
 
 [[files]]
@@ -193,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "ad9aa872f766d49789127cea7ded0d0e43255f3fc3e50c019171431fea2de28e"
 metafile = true
 
 [[files]]
@@ -243,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "fabe07c86b346aec8b1e0cf2c4e5fd030ba819b945f43528b9d1d9ace912697d"
+metafile = true
+
+[[files]]
+file = "mods/create-cold-sweat.pw.toml"
+hash = "af582c195e46742430c413e90c460af5829f25485d2d12b0816d8fefa1cf177e"
 metafile = true
 
 [[files]]
@@ -446,11 +466,6 @@ hash = "fe84bc0e7e62faff3f190916aac60d058a60d2e921285e234749221e9f03fbf8"
 metafile = true
 
 [[files]]
-file = "mods/frostiful.pw.toml"
-hash = "f369254990a7c1c4e3c0e80ff7971badbfa57840a36c2f4d238b4d3328d94cfa"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
 metafile = true
@@ -532,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "124201a3e9f804b7e3ded32d2cb415743f8b91cf124c7f7491bae915e434c4aa"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "ac7cae24fcac0183430f948d4a3827bb30bb086e5d94f4a255afc5dfd6713371"
 metafile = true
 
 [[files]]
@@ -849,11 +869,6 @@ hash = "236f2081c7d05b4aedd9a44e57434818332f63091645d7d3b2fd6356de0646aa"
 metafile = true
 
 [[files]]
-file = "mods/scorchful.pw.toml"
-hash = "5a9912f8d9dbc7f3910372f88c947b6078849fd9aec950854868867618e44ba4"
-metafile = true
-
-[[files]]
 file = "mods/screencopy.pw.toml"
 hash = "3395adcfdac33cfbc179e99e1b9ef3bd7b19c8dda8a7059d97c50eabb83ae72c"
 metafile = true
@@ -994,13 +1009,8 @@ hash = "726e7bce053aab92309cf00045f8ac6c89fe3cbf022dd94386e9dd99e5b510cb"
 metafile = true
 
 [[files]]
-file = "mods/thermoo-patches.pw.toml"
-hash = "2ba1521d14ba5332b6a676a3cd8ce1847da8ec706f16f4ce7c9e0548bc2c3d16"
-metafile = true
-
-[[files]]
-file = "mods/thermoo.pw.toml"
-hash = "5e6b7f02205f1f3d3447e6456ab7ccdf5857e68b8ba7671985412cdbee908710"
+file = "mods/thirst-was-taken.pw.toml"
+hash = "b5179f1f191932d600789d8984793990bbdf64aad5a8e77e3839f9f61b5654c8"
 metafile = true
 
 [[files]]
