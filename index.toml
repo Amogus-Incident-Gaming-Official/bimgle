@@ -1077,6 +1077,11 @@ hash = "64fbb565e6f441cacd9007431810a2798061b637741099d01adc92b784dc51ad"
 metafile = true
 
 [[files]]
+file = "mods/servuxforged.pw.toml"
+hash = "e8723e47af8161b183c8d0fbc2b6f7f0ee1f8aa2ff06427e24cb7b3ade94639a"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "a291a8d50f30843e49d92db1cde7734327e809b52d24183eecff8c165eed82a6"
 metafile = true
