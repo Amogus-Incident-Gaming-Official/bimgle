@@ -32,13 +32,13 @@ hash = "1ca9c7b8d7e1ebc8960731af70005cd9e1a0661b0393041970d1e9ee317cab68"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
-hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
+file = "config/paxi/resourcepacks/3d-muskets.pw.toml"
+hash = "50d0cf4cf6e2d2978698373d93aa339aaf9a1bb5224d5422e0a0313728559964"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/flintl0cks.pw.toml"
-hash = "3a76e164ea01641e840ce177df533ed80657d331af1ff73f5c1cea46df06981c"
+file = "config/paxi/resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
 metafile = true
 
 [[files]]
