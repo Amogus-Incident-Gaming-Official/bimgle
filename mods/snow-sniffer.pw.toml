@@ -1,0 +1,13 @@
+name = "Snowy Sniffer"
+filename = "snowysniffer-neo-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DbtUGm3z/versions/F1wynkMM/snowysniffer-neo-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "52506a30ba27fad236a46b18dacc0072aac51f926eea024167bc3b66a5955690df238040d9cd6e3145b19d17672a599a4d93cefdd30ab81cd6498602e54af637"
+
+[update]
+[update.modrinth]
+mod-id = "DbtUGm3z"
+version = "F1wynkMM"
