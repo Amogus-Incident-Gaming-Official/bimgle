@@ -154,6 +154,11 @@ hash = "5994f2b1c61f6d8211413c1cb999464fc5e87439129f6f0b086daf64fda9ec96"
 metafile = true
 
 [[files]]
+file = "mods/ars-scalaes.pw.toml"
+hash = "cff38a0ff474bdbd272e2766a697f4964bcc232e4ecd67f27daf367ee162a053"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
 metafile = true
@@ -634,6 +639,11 @@ hash = "f90e3237505d15c8bf33ae3ee004219bdab41f9d40990f65a2ca57848646e7b8"
 metafile = true
 
 [[files]]
+file = "mods/hex-ars-linker.pw.toml"
+hash = "87047138a8b454be537f108813729a0fc9ddc9fc5ec7709e8c432241965cc6ea"
+metafile = true
+
+[[files]]
 file = "mods/hex-casting.pw.toml"
 hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
@@ -641,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/hexal-forge-1.20.1-0.3.0-3-skyevg-unofficial.jar"
 hash = "319c97bf00a879d34c146cbbfcec6c29f97a591abc92c293281d99fff3cf9605"
+
+[[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "325dabaad0c39bce62f37899ecafa82c39112662bd36e9ca94868815c4b149e9"
+metafile = true
 
 [[files]]
 file = "mods/icterine.pw.toml"
