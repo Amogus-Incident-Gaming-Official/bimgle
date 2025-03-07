@@ -37,6 +37,11 @@ hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/flintl0cks.pw.toml"
+hash = "3a76e164ea01641e840ce177df533ed80657d331af1ff73f5c1cea46df06981c"
+metafile = true
+
+[[files]]
 file = "config/tconstruct-common.toml"
 hash = "b065935b9b28e4ac6c81c0e303a63056270893de9cb80ef8d7731d41e657e2e7"
 
@@ -884,6 +889,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "f5e19eff418ff12946e7cd4f10e16508ba7261c9cd9685e3d87016fa21c127d1"
+metafile = true
+
+[[files]]
+file = "mods/musket-mod.pw.toml"
+hash = "5bec5af8168f71eee949cd400802293aed0eb36a1f8fa60ae5abe5713b4f38ae"
 metafile = true
 
 [[files]]

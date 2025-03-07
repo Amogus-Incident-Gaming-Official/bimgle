@@ -1,0 +1,13 @@
+name = "Flintl0cks - Musket Mod Overhaul"
+filename = "Flintl0cks_v2.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f44824e6fba28bae8ab7484e41aa324909c122c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4796131
+project-id = 619711
