@@ -114,6 +114,11 @@ hash = "f6cb39881349ebcd51d5ea8563110dd0fb861b66c18f7a261eabe1ef41563cd2"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "64bcde890c30378ebb2f305268bd76c412e1f5d4709896e97449cbe95b653fe5"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -481,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "59be985c78c01071b0d557d2c283292a8981f5b2ed7fd5ca9f1c4c2d9889bb5e"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "1938c7af7e200ebf6536e7e16c992fef16621487e81f60c3c9db33881a46aa8c"
 metafile = true
 
 [[files]]
@@ -1179,6 +1189,11 @@ metafile = true
 [[files]]
 file = "mods/stateobserver.pw.toml"
 hash = "3b3e9f0dde7b6b3f3be1a65e63583b36636292859e397668b9cdcd3a810b0b28"
+metafile = true
+
+[[files]]
+file = "mods/stone-zone.pw.toml"
+hash = "95b2e31e6ba4fb83fcada362a8f1c4466006df752808f72a846a9ea06ac6f905"
 metafile = true
 
 [[files]]
