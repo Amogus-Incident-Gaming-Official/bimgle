@@ -86,7 +86,7 @@ hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "13d6a46f126b87c3dd7c6efebefab6aa578d4197447f39a9e729bd689ce87c27"
+hash = "7834578fc4635f7ecd77988694890819af23a0f4a18f5e63b4448db3ba61f803"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
