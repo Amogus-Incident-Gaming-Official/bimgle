@@ -13,6 +13,10 @@ file = "config/paxi/datapacks/AIGO Tweaks/data/irons_spellbooks/advancements/gra
 hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
 
 [[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/advancements/terramity_parent_advancement.json"
+hash = "fa54596d2fc1d576889aff3184ad6bf444846b5c57b949ef1b181aa6fdf316c6"
+
+[[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
 hash = "44154df71a73b9140f64070c06a9e21301fc5edc615fc57e17d6b20be4573309"
 
@@ -91,7 +95,7 @@ hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "7834578fc4635f7ecd77988694890819af23a0f4a18f5e63b4448db3ba61f803"
+hash = "35cad3348e7ffcf3703552720bb192689b078dfe472688eb4cc992de2884649c"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
