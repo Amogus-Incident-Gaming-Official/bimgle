@@ -1277,6 +1277,11 @@ hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
 metafile = true
 
 [[files]]
+file = "mods/terramity.pw.toml"
+hash = "06c36396febd12e1bc59a2d8bdfd48377a1081941160d2d968d2e307d2774658"
+metafile = true
+
+[[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "726e7bce053aab92309cf00045f8ac6c89fe3cbf022dd94386e9dd99e5b510cb"
 metafile = true
