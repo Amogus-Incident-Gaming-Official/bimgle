@@ -1,0 +1,13 @@
+name = "Dynamic Trees for Immersive Weathering Soils"
+filename = "dtimmersiveweathering-1.20.1-forge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oZn5qAQl/versions/lm4qIrQl/dtimmersiveweathering-1.20.1-forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "f72e7eb392a9b605ccb1a3f9c3c3dcf9834c90819460f6e11684ff4e0caf127d27238ecd7c715b9865bece68b6bdad8887dcfa62c6adaf9db579086d6f4c87e4"
+
+[update]
+[update.modrinth]
+mod-id = "oZn5qAQl"
+version = "lm4qIrQl"

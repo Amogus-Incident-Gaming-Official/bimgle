@@ -154,6 +154,11 @@ hash = "3d8be55f14760357d0676b6e551c3d6afa4494ffbc06629b874230a940a04e17"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "4bf55aa51f09c03d194781a280d0676394c897a4334f0ae3eab358e0851e39d9"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "5994f2b1c61f6d8211413c1cb999464fc5e87439129f6f0b086daf64fda9ec96"
 metafile = true
@@ -424,6 +429,11 @@ hash = "2681c24f0db051f0f0e988511085ef65d5409863449e924b676fe03b5ce7673c"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-ars-nouveau.pw.toml"
+hash = "170c1a0b6fd950fb590ad3dd351feb2931d9eaa27b53d2c1fe6a765beeeef2e1"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-biomes-o-plenty.pw.toml"
 hash = "99fe378f858fbe69263f9003dd3bffb7db7810526bf908d691bef6aba5c9bd60"
 metafile = true
@@ -434,6 +444,16 @@ hash = "fce3ac35772a52930b1670210fc5eed290df3bfe7b4e6158bd53cb5a8e8d1151"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-for-immersive-weathering-soils.pw.toml"
+hash = "b7213d9eacaa0e975ead6003a52f470d02bea20f0cc614661b4af939425779ce"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-for-vinery.pw.toml"
+hash = "2e03225d179a32451f049f702c8d724404280a86bdc99ad82f3991f3c686b37f"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-hexcasting.pw.toml"
 hash = "6a0f02e6c25b9e1f521c5371f47e52b1d67af312cfd7cce169f22e8f38f66468"
 metafile = true
@@ -441,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-trees-quark.pw.toml"
 hash = "fa83c56be1710cf50ccff6897ba140ebd486cd4fe46870def9eed73482c440e6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-upgrade-aquatic.pw.toml"
+hash = "dfa12d4359b61cb6fa60a281767256b39ad9ba12b46a93b82038eb731014c423"
 metafile = true
 
 [[files]]
@@ -698,6 +723,11 @@ hash = "1bc981bf46b07ba284e9e89524fa2ed32d121bf9aa295eeb7c10af5d816cc9bb"
 metafile = true
 
 [[files]]
+file = "mods/idas.pw.toml"
+hash = "675609a9fb0ed19788e460191f2fba6279e56e63d702c3d506e6e1a1c0c9ffb0"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "124201a3e9f804b7e3ded32d2cb415743f8b91cf124c7f7491bae915e434c4aa"
 metafile = true
@@ -720,6 +750,16 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "5c10779d56d097b81709eb20b8ee3da92d0e959e8d3a0519fb7833498cfe3864"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "6703d5686b7249c586a3a710a909dfd0eba3e2d0c76bc152efb2c43494e5b2e1"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "6a3e8217b2009309ea78ab26a1cbaf6ce53e154846efab841c61467426d27562"
 metafile = true
 
 [[files]]
