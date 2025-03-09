@@ -27,9 +27,8 @@ hash = "9bbd764bc260954610ba2b03f74d782293914adb44edfd1d058b6b215d6265d2"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/idas-bop.pw.toml"
-hash = "7136cfeff97a9194ea51fa841c907eaec60f97817904a856cb3f627ee639d157"
-metafile = true
+file = "config/paxi/datapacks/idasbop-1.9.3-1.20.1.zip"
+hash = "f7c36ede0cbd5b35ab3000134df4b19468ae05c650590143fbbc03f649630564"
 
 [[files]]
 file = "config/paxi/datapacks/rustrework.pw.toml"
