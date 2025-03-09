@@ -28,7 +28,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/rustrework.pw.toml"
-hash = "1ca9c7b8d7e1ebc8960731af70005cd9e1a0661b0393041970d1e9ee317cab68"
+hash = "8d54df4cd5d6aa850de86c71072a5c8203826d28bc669e979f34902b21585ebc"
 metafile = true
 
 [[files]]
