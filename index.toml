@@ -768,6 +768,11 @@ hash = "6703d5686b7249c586a3a710a909dfd0eba3e2d0c76bc152efb2c43494e5b2e1"
 metafile = true
 
 [[files]]
+file = "mods/integrated-cataclysm.pw.toml"
+hash = "110a856ff4d9fdd18fdfa21402a8d222b3cc347757ee06d183d98005e5c82c15"
+metafile = true
+
+[[files]]
 file = "mods/integrated-stronghold.pw.toml"
 hash = "6a3e8217b2009309ea78ab26a1cbaf6ce53e154846efab841c61467426d27562"
 metafile = true
