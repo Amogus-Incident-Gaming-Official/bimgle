@@ -159,11 +159,6 @@ hash = "0bc8fe3b019589fd473d9c1aacd1b5108fa7b2ee8bf9d0521158f950291c3dee"
 metafile = true
 
 [[files]]
-file = "mods/ars-creo.pw.toml"
-hash = "628d399340e67a9f64246c8900dabc1efc338ca5dafec5fc24938c9d8b3bfdfa"
-metafile = true
-
-[[files]]
 file = "mods/ars-elemental.pw.toml"
 hash = "1ee1ee248c2061162602391279e2e13b878e5fd28679a74f68382b5f8f54cdc3"
 metafile = true
