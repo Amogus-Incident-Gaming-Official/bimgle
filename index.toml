@@ -32,11 +32,6 @@ hash = "1ca9c7b8d7e1ebc8960731af70005cd9e1a0661b0393041970d1e9ee317cab68"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/3d-muskets.pw.toml"
-hash = "50d0cf4cf6e2d2978698373d93aa339aaf9a1bb5224d5422e0a0313728559964"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
 hash = "f3a4bb5d89c7d9a554aca934d729611a3bad37c01ab374caf7af6cbc1de4fab0"
 metafile = true
@@ -364,6 +359,11 @@ hash = "1ec110bfa32f314b86c2cbf15612e8fe2caf2a7aca30c0c216ea1b2c38b64d0b"
 metafile = true
 
 [[files]]
+file = "mods/create-love-war.pw.toml"
+hash = "102e294230e35d4942975de43bae4d1518ef89cc1ad6b8edbc37f183834103da"
+metafile = true
+
+[[files]]
 file = "mods/create-man-of-many-planes.pw.toml"
 hash = "05e9862287954ca4ff2f1a4b160f73ee43ea3573d90919de9a4202d54da93adb"
 metafile = true
@@ -551,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
+file = "mods/flans-mod-reloaded.pw.toml"
+hash = "6b0dcebd93c1181543720d529ae8f8daf3350c7ab59cf4a20f0519824f639531"
 metafile = true
 
 [[files]]
@@ -929,11 +934,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "f5e19eff418ff12946e7cd4f10e16508ba7261c9cd9685e3d87016fa21c127d1"
-metafile = true
-
-[[files]]
-file = "mods/musket-mod.pw.toml"
-hash = "5bec5af8168f71eee949cd400802293aed0eb36a1f8fa60ae5abe5713b4f38ae"
 metafile = true
 
 [[files]]
