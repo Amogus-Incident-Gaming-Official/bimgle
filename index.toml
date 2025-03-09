@@ -1377,6 +1377,11 @@ hash = "8d15ac699c4aca3ecae5b3a3059c6655a92264edcf79530a9006f4a0001a3389"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "c24febd1fd6db1cf87dc4ba9caf9ecedba0e7326c06456dcce71c390ba98b424"
+metafile = true
+
+[[files]]
 file = "mods/underwater-enchanting.pw.toml"
 hash = "68b2fa8768b650a4e2e7d2877c4d4ac1aedd0f047fe412c51a67839caae3c79e"
 metafile = true
