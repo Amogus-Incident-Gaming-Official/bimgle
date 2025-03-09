@@ -155,7 +155,17 @@ metafile = true
 
 [[files]]
 file = "mods/ars-additions.pw.toml"
-hash = "4bf55aa51f09c03d194781a280d0676394c897a4334f0ae3eab358e0851e39d9"
+hash = "0bc8fe3b019589fd473d9c1aacd1b5108fa7b2ee8bf9d0521158f950291c3dee"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "628d399340e67a9f64246c8900dabc1efc338ca5dafec5fc24938c9d8b3bfdfa"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "1ee1ee248c2061162602391279e2e13b878e5fd28679a74f68382b5f8f54cdc3"
 metafile = true
 
 [[files]]
@@ -823,6 +833,11 @@ hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "d55aedb587f34291e06b7b244e7e6ba1b92230132d4c5b016b0790e4c6847f4a"
+metafile = true
+
+[[files]]
 file = "mods/lampcrafting.pw.toml"
 hash = "71db8a3318350101d5ea9021ec5bd0139bd5560bff9cda792cf02bbaed692715"
 metafile = true
@@ -895,6 +910,11 @@ metafile = true
 [[files]]
 file = "mods/lighty.pw.toml"
 hash = "94aa69e3f800f454553aa7f80b8e28a4751d58487775100fb60ae16bbd799259"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "24fb3877a720dd3c5d51016bec730672f47356db9983a6920797befb373a147c"
 metafile = true
 
 [[files]]
