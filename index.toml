@@ -97,6 +97,11 @@ file = "kubejs/server_scripts/starting_items.js"
 hash = "7834578fc4635f7ecd77988694890819af23a0f4a18f5e63b4448db3ba61f803"
 
 [[files]]
+file = "mods/abridged.pw.toml"
+hash = "a3b18e54641069362bae1b07567077cb772c06df20925fd22f94c5942a4e8cbe"
+metafile = true
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "d3a18bbfbb1436f8917f5275ce336de3fc6012dfe44ac074a4cc616976bae038"
 metafile = true
@@ -494,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "5ed3d23818f95d3b90b8a8bf42f7f51d6b7ea556e5b68cc1d9fe9e4110a94c78"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash = "b9f54476b8fd406728130ebc2cce3a706fcf017ccaaf6ba2fc8737ebaa59b900"
 metafile = true
 
 [[files]]
@@ -1115,6 +1125,11 @@ hash = "5f26f669842f96d229e1421d9cf997b79515592fe9d50607aeef574a4e501daa"
 metafile = true
 
 [[files]]
+file = "mods/platforms.pw.toml"
+hash = "a3405020853f549e0041348eb106035c43b0fbab617d8c5df52e7e6cea45b67f"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
@@ -1217,6 +1232,11 @@ metafile = true
 [[files]]
 file = "mods/servuxforged.pw.toml"
 hash = "e8723e47af8161b183c8d0fbc2b6f7f0ee1f8aa2ff06427e24cb7b3ade94639a"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "fe2fccdae540a4eb5629b6a77e640972307d38e7e5f41848129f87741e5aff80"
 metafile = true
 
 [[files]]
