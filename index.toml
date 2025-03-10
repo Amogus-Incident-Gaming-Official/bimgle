@@ -17,6 +17,10 @@ file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
 hash = "44154df71a73b9140f64070c06a9e21301fc5edc615fc57e17d6b20be4573309"
 
 [[files]]
+file = "config/paxi/datapacks/Giant v2.5 beeg edition.zip"
+hash = "a176306b5d6d327f04a7503df7bf88af86741903803e4c48aa901c3181c28132"
+
+[[files]]
 file = "config/paxi/datapacks/blissful-origins.pw.toml"
 hash = "c5343075d57efa821e5b6dca13549ba943d74cde62d63aebe146d240e8bef66f"
 metafile = true
