@@ -452,11 +452,6 @@ hash = "99fe378f858fbe69263f9003dd3bffb7db7810526bf908d691bef6aba5c9bd60"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-for-fruit-trees.pw.toml"
-hash = "fce3ac35772a52930b1670210fc5eed290df3bfe7b4e6158bd53cb5a8e8d1151"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-trees-for-immersive-weathering-soils.pw.toml"
 hash = "b7213d9eacaa0e975ead6003a52f470d02bea20f0cc614661b4af939425779ce"
 metafile = true
@@ -642,11 +637,6 @@ hash = "fe84bc0e7e62faff3f190916aac60d058a60d2e921285e234749221e9f03fbf8"
 metafile = true
 
 [[files]]
-file = "mods/fruitful-fun.pw.toml"
-hash = "2c5ada1b781a6a7725c7573bf84616abb5f8b0dd7155da10fdb9b942b78f72e0"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
 metafile = true
@@ -826,11 +816,6 @@ hash = "5c3ed3fb47ba7e8bae71ddcea211d1ec58d2f1e820521c6376a9012eac405b38"
 metafile = true
 
 [[files]]
-file = "mods/kiwi.pw.toml"
-hash = "3767377d414510ef338592ea728f2d44bc61c273616de118127711e43c78b094"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
@@ -933,11 +918,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
-metafile = true
-
-[[files]]
-file = "mods/lychee.pw.toml"
-hash = "fead5d14f55ab535219fa847d2fa299d8cc3f93accd461d74f007f026052ddbe"
 metafile = true
 
 [[files]]
