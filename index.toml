@@ -97,11 +97,6 @@ file = "kubejs/server_scripts/starting_items.js"
 hash = "7834578fc4635f7ecd77988694890819af23a0f4a18f5e63b4448db3ba61f803"
 
 [[files]]
-file = "mods/abridged.pw.toml"
-hash = "8e6edb0bf5eca7329a0f8c86044add132ae679ff225bb7ddd0b2b15624fd6e7b"
-metafile = true
-
-[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "d3a18bbfbb1436f8917f5275ce336de3fc6012dfe44ac074a4cc616976bae038"
 metafile = true
