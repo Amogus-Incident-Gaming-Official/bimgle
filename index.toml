@@ -277,11 +277,6 @@ hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
-metafile = true
-
-[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
@@ -404,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "1f6fe88a1e44e31f32d5efb1f359d45b1961c0869b7329f32280177d363a014f"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "605f7351ee4f4cec0f33ac6693e08c004d13ddf383af74fe1c5a8877ad92a805"
 metafile = true
 
 [[files]]
@@ -918,6 +918,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "24fb3877a720dd3c5d51016bec730672f47356db9983a6920797befb373a147c"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.pw.toml"
+hash = "91f26e748dad450afd514c38d39d4802d0d3a5a6aa09f3244363173f5ee84b00"
 metafile = true
 
 [[files]]
