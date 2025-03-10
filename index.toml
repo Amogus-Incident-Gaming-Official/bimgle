@@ -502,8 +502,8 @@ hash = "5ed3d23818f95d3b90b8a8bf42f7f51d6b7ea556e5b68cc1d9fe9e4110a94c78"
 metafile = true
 
 [[files]]
-file = "mods/effortless-building.pw.toml"
-hash = "cdcd6dd4ac10573c18f1d48a3ab1f07c5d9a8efdfada57356e8293b054e0610b"
+file = "mods/effortless.pw.toml"
+hash = "b9f54476b8fd406728130ebc2cce3a706fcf017ccaaf6ba2fc8737ebaa59b900"
 metafile = true
 
 [[files]]
