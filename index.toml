@@ -97,6 +97,11 @@ file = "kubejs/server_scripts/starting_items.js"
 hash = "7834578fc4635f7ecd77988694890819af23a0f4a18f5e63b4448db3ba61f803"
 
 [[files]]
+file = "mods/addonslib.pw.toml"
+hash = "b0a06e7fb99cceab61313fce41ed48059aca7b86423bff086034bd69b01af92d"
+metafile = true
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "d3a18bbfbb1436f8917f5275ce336de3fc6012dfe44ac074a4cc616976bae038"
 metafile = true
@@ -494,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "5ed3d23818f95d3b90b8a8bf42f7f51d6b7ea556e5b68cc1d9fe9e4110a94c78"
+metafile = true
+
+[[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "cdcd6dd4ac10573c18f1d48a3ab1f07c5d9a8efdfada57356e8293b054e0610b"
 metafile = true
 
 [[files]]
@@ -938,6 +948,76 @@ metafile = true
 [[files]]
 file = "mods/lychee.pw.toml"
 hash = "fead5d14f55ab535219fa847d2fa299d8cc3f93accd461d74f007f026052ddbe"
+metafile = true
+
+[[files]]
+file = "mods/macaws-biomes-o-plenty.pw.toml"
+hash = "e9f9e8a6fa0d407ac594e61ac8268602b6920402bd86b98e2fabdef4d7f535e7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "95ac20b32e35947fdefa1159f5e50afefee90e76a67775b819344f7ccac51694"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "e4f414ece2ec81f6dd2dfb8c0176670a576b988f60c8b45a1f4b749b4d008c9d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "447e33b5d0417c5ff551e56760ffe08ab83cb4272627f727539fe0e47e2a781d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "454c8dd01b9f5e9b9288f37230dd0e38b7a2bba8d14bf4adce738185626191bd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "c2b6ff731ec50589e048a1b424bed73d3d3498cc99b3588db6c224465bb82454"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "df562b78542f19d3855a65bc9790662bbeaaed52ebd491a9ebce67882b9d537a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "5ca76dcdb8448783ed3bb933ee2cefd017406d946b1b5adf7550ba7bcffe0932"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "1a621ba80dc3db935afe234475501a880e11a2cc96222833803e6636154f6724"
+metafile = true
+
+[[files]]
+file = "mods/macaws-quark.pw.toml"
+hash = "aa1d3ee826d345cd893845eccb0821b35ee38a6fc906ce38ddb8aea1b909d36f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "9ec20c38e00bf7bbd5c3f173763d6c6fd9e328c8f058714cc2813c256d63898e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "0429a608d214bc097b8c67442b40b799c61026c151b9ac24a6697ce2e7f39d2d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "40d34a4deede6848d6a49a9f1cf8fdd2af9dd1de058ffeb77e247099e087621f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "bcab19f90a7b77b0c4eb0b6f30b6c43994a3305cbfae6d2768ec8cb6203ed045"
 metafile = true
 
 [[files]]
