@@ -1,7 +1,0 @@
-[ 
-  {
-    "mob": "terramity:elite_skeleton",
-    "when": "onjoin",
-    "result": "deny"
-  }
-]
