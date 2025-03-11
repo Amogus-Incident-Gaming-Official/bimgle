@@ -5,6 +5,58 @@ file = "config/ars_nouveau-common.toml"
 hash = "93d329f4856d0041b94db2bba6d3a73fce420774be07b51d0fd05400ef22ca75"
 
 [[files]]
+file = "config/incontrol/areas.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/breakevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/effects.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/events.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/leftclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/placeevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/rightclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "29e239bbfbcb462fae5d5d40d640ba9540f208306f9187e41f0e6e57f60eec9b"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/summonaid.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/bloodmagic/weapon_attributes/daggerofsacrifice.json"
 hash = "3958b89a2fd9cd0f6a897543b5daa489e48b518e4470fc3e5e95e31d10701142"
 
@@ -93,8 +145,32 @@ file = "kubejs/server_scripts/advancement_removal.js"
 hash = "01cc64e0694d4044800c0e7463d5f6e5032706d3ac63aa7ccbcf4d88207419c3"
 
 [[files]]
+file = "kubejs/server_scripts/ancientremnantspawn.js"
+hash = "46170c39fc510d30f1b9671fad4d42ceee703afcd5ca8dc8e9f0ce8483354709"
+
+[[files]]
+file = "kubejs/server_scripts/bossaltarpickup.js"
+hash = "e4df2d0dcfc26c1b1acccca18124e080479b47206668ef38288c1662c82979c5"
+
+[[files]]
+file = "kubejs/server_scripts/bossspawnitemcrafts.js"
+hash = "1a6b0779c78221776d64c43fa8d89f1a4f623a65f2ccd1e9b97a5355caed3575"
+
+[[files]]
+file = "kubejs/server_scripts/harbingerspawn.js"
+hash = "320e61e81409c36813f7c228abf3cb18352b6ba300bb95c95eb420712bcf6213"
+
+[[files]]
+file = "kubejs/server_scripts/netheritemonstrosityspawn.js"
+hash = "375bcfcf939c106611fab70a6abeb9f0cc65ae488e2f793476a6ac8f964a0630"
+
+[[files]]
 file = "kubejs/server_scripts/origin_command.js"
 hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
+
+[[files]]
+file = "kubejs/server_scripts/remove_modern_guns.js"
+hash = "c3ba7efa011d692bac38205a797b18984ea1a01e2d219969fd9e9ea1fc5e4aa2"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
@@ -765,6 +841,11 @@ hash = "0a83314a5c0d8d8f356bd3a8a7a57a0b09133855a59c8ec6791a470c174d57ee"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "87febabd3473f1f70a8b8703276a9623f8e3129fcebc82b0b7457d2e4dfe151e"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "5c10779d56d097b81709eb20b8ee3da92d0e959e8d3a0519fb7833498cfe3864"
 metafile = true
@@ -1366,6 +1447,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
+metafile = true
+
+[[files]]
+file = "mods/terramity.pw.toml"
+hash = "06c36396febd12e1bc59a2d8bdfd48377a1081941160d2d968d2e307d2774658"
 metafile = true
 
 [[files]]
