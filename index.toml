@@ -73,10 +73,6 @@ file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
 hash = "44154df71a73b9140f64070c06a9e21301fc5edc615fc57e17d6b20be4573309"
 
 [[files]]
-file = "config/paxi/datapacks/Cold Sweat Bliss 1.1.1.zip"
-hash = "9bb75818c8dcbdad8117c35ff44e81f46cf87aa88c0ba071d51b9dd659f8d85a"
-
-[[files]]
 file = "config/paxi/datapacks/Giant v2.5 beeg edition.zip"
 hash = "a176306b5d6d327f04a7503df7bf88af86741903803e4c48aa901c3181c28132"
 
@@ -397,16 +393,6 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
-file = "mods/cold-sweat-origins-addon.pw.toml"
-hash = "462d6d73f7cacc9cbbecfc9c4a7d966d765c267369a515fdba3e2cb5785d4fec"
-metafile = true
-
-[[files]]
-file = "mods/cold-sweat.pw.toml"
-hash = "ad9aa872f766d49789127cea7ded0d0e43255f3fc3e50c019171431fea2de28e"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "e2c5a4243db55a741dd1bb4466cd3a6ac100e72b3c3cedbad6ac40eda017a0e9"
 metafile = true
@@ -464,11 +450,6 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "fabe07c86b346aec8b1e0cf2c4e5fd030ba819b945f43528b9d1d9ace912697d"
-metafile = true
-
-[[files]]
-file = "mods/create-cold-sweat.pw.toml"
-hash = "af582c195e46742430c413e90c460af5829f25485d2d12b0816d8fefa1cf177e"
 metafile = true
 
 [[files]]
@@ -1147,11 +1128,6 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "8a842b500e29db000d882eaf46fadf52fa56ddf097a5ec3762f61cd251c6aaad"
-metafile = true
-
-[[files]]
-file = "mods/numismatics.pw.toml"
-hash = "63504f8d1db513fa1a78c214d824be5a9ddba732850a461cae0bb1029b8462b7"
 metafile = true
 
 [[files]]
