@@ -186,7 +186,7 @@ hash = "c3ba7efa011d692bac38205a797b18984ea1a01e2d219969fd9e9ea1fc5e4aa2"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "7834578fc4635f7ecd77988694890819af23a0f4a18f5e63b4448db3ba61f803"
+hash = "35cad3348e7ffcf3703552720bb192689b078dfe472688eb4cc992de2884649c"
 
 [[files]]
 file = "mods/abridged.pw.toml"
