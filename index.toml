@@ -145,8 +145,32 @@ file = "kubejs/server_scripts/advancement_removal.js"
 hash = "01cc64e0694d4044800c0e7463d5f6e5032706d3ac63aa7ccbcf4d88207419c3"
 
 [[files]]
+file = "kubejs/server_scripts/ancientremnantspawn.js"
+hash = "46170c39fc510d30f1b9671fad4d42ceee703afcd5ca8dc8e9f0ce8483354709"
+
+[[files]]
+file = "kubejs/server_scripts/bossaltarpickup.js"
+hash = "e4df2d0dcfc26c1b1acccca18124e080479b47206668ef38288c1662c82979c5"
+
+[[files]]
+file = "kubejs/server_scripts/bossspawnitemcrafts.js"
+hash = "1a6b0779c78221776d64c43fa8d89f1a4f623a65f2ccd1e9b97a5355caed3575"
+
+[[files]]
+file = "kubejs/server_scripts/harbingerspawn.js"
+hash = "320e61e81409c36813f7c228abf3cb18352b6ba300bb95c95eb420712bcf6213"
+
+[[files]]
+file = "kubejs/server_scripts/netheritemonstrosityspawn.js"
+hash = "375bcfcf939c106611fab70a6abeb9f0cc65ae488e2f793476a6ac8f964a0630"
+
+[[files]]
 file = "kubejs/server_scripts/origin_command.js"
 hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
+
+[[files]]
+file = "kubejs/server_scripts/remove_modern_guns.js"
+hash = "c3ba7efa011d692bac38205a797b18984ea1a01e2d219969fd9e9ea1fc5e4aa2"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
@@ -1423,6 +1447,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
+metafile = true
+
+[[files]]
+file = "mods/terramity.pw.toml"
+hash = "06c36396febd12e1bc59a2d8bdfd48377a1081941160d2d968d2e307d2774658"
 metafile = true
 
 [[files]]
