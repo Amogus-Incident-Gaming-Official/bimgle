@@ -173,6 +173,10 @@ file = "kubejs/server_scripts/harbingerspawn.js"
 hash = "320e61e81409c36813f7c228abf3cb18352b6ba300bb95c95eb420712bcf6213"
 
 [[files]]
+file = "kubejs/server_scripts/mushroomstewrecipe.js"
+hash = "f5f4e7f0605f1bca6c68c244aafb16635b1acb3be3d62f08aefcf37088ef796d"
+
+[[files]]
 file = "kubejs/server_scripts/netheritemonstrosityspawn.js"
 hash = "375bcfcf939c106611fab70a6abeb9f0cc65ae488e2f793476a6ac8f964a0630"
 
