@@ -61,12 +61,12 @@ file = "config/paxi/datapacks/AIGO Origins 2.x 2.0.14.zip"
 hash = "89fd6cd57cbddc1674236c23b563304a00ee36025fdea3613af7c856a0fdd527"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Tweaks/data/bloodmagic/weapon_attributes/daggerofsacrifice.json"
-hash = "3958b89a2fd9cd0f6a897543b5daa489e48b518e4470fc3e5e95e31d10701142"
-
-[[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/irons_spellbooks/advancements/grant_patchouli.json"
 hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
+
+[[files]]
+file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/advancements/terramity_parent_advancement.json"
+hash = "29baeac15e4727d2edac971706f8d4d78d4465e6fd914b20a42ee605df1836c0"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
