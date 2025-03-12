@@ -19,5 +19,5 @@
     "terramity_parent_advancement_0": {
       "trigger": "minecraft:tick"
     }
-  }
+  },
 }

@@ -66,31 +66,15 @@ hash = "d914176fd50bd7f565700006a31aa97b79d3ad17cee20c8e5ff2061d5cb74817"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/advancements/terramity_parent_advancement.json"
-hash = "29baeac15e4727d2edac971706f8d4d78d4465e6fd914b20a42ee605df1836c0"
-
-[[files]]
-file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/loot_tables/chests/overgrown_facility_loot.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+hash = "72b75df9af4e1a31d5842ff39d6ebec89a4f300680183d9c111a81a02b269f02"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/structures/overgrown_facility.nbt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/tags/worldgen/biome/has_structure/overgrown_facility_biomes.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/worldgen/structure/overgrown_facility.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/worldgen/structure_set/overgrown_facility.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
-
-[[files]]
-file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/worldgen/template_pool/overgrown_facility.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+hash = "b465f5566a1f88af0c9ca02481ec0034152369977f25193d36817366d7803447"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
