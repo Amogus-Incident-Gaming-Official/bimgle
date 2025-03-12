@@ -170,7 +170,7 @@ hash = "320e61e81409c36813f7c228abf3cb18352b6ba300bb95c95eb420712bcf6213"
 
 [[files]]
 file = "kubejs/server_scripts/mushroomstewrecipe.js"
-hash = "f5f4e7f0605f1bca6c68c244aafb16635b1acb3be3d62f08aefcf37088ef796d"
+hash = "237be935054beeecf778ed612161ae209fc6cbdc10208e111340c7f8a0ca070f"
 
 [[files]]
 file = "kubejs/server_scripts/netheritemonstrosityspawn.js"

@@ -1,5 +1,5 @@
 ServerEvents.recipes(mushroomstew => {
-  desertmedal.shapeless(
+  mushroomstew.shapeless(
   Item.of('minecraft.mushroom_stew', 1), // arg 1: output
   [
     'minecraft:red_mushroom',
