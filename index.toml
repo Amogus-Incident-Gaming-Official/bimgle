@@ -181,6 +181,10 @@ file = "kubejs/server_scripts/origin_command.js"
 hash = "4bc44d091e7bd00c887a72e2fc85b41d5838b7850d0fec8c4b88f9d9323a992a"
 
 [[files]]
+file = "kubejs/server_scripts/remove_dumb_hedges.js"
+hash = "0031b3e076aadbc9f2e018c345d8320422a81f46ef6a8754f12792e7a8b7c1e3"
+
+[[files]]
 file = "kubejs/server_scripts/remove_modern_guns.js"
 hash = "c3ba7efa011d692bac38205a797b18984ea1a01e2d219969fd9e9ea1fc5e4aa2"
 
