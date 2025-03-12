@@ -1370,11 +1370,6 @@ hash = "3b3e9f0dde7b6b3f3be1a65e63583b36636292859e397668b9cdcd3a810b0b28"
 metafile = true
 
 [[files]]
-file = "mods/stone-zone.pw.toml"
-hash = "95b2e31e6ba4fb83fcada362a8f1c4466006df752808f72a846a9ea06ac6f905"
-metafile = true
-
-[[files]]
 file = "mods/structory.pw.toml"
 hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
 metafile = true
