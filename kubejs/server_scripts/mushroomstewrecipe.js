@@ -1,6 +1,6 @@
 ServerEvents.recipes(mushroomstew => {
   mushroomstew.shapeless(
-  Item.of('minecraft.mushroom_stew', 1), // arg 1: output
+  Item.of('minecraft:mushroom_stew', 1), // arg 1: output
   [
     'minecraft:red_mushroom',
     'minecraft:brown_mushroom',  //arg 3: the mapping object
