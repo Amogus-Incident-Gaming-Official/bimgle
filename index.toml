@@ -57,8 +57,8 @@ file = "config/incontrol/summonaid.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 2.x 2.0.14.zip"
-hash = "89fd6cd57cbddc1674236c23b563304a00ee36025fdea3613af7c856a0fdd527"
+file = "config/paxi/datapacks/AIGO Origins 2.x 2.0.15.zip"
+hash = "73a1aecb2d5610ca1db20b71c21faaba8feeca3eb187b71aed38f7e484d9bf2f"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/irons_spellbooks/advancements/grant_patchouli.json"
@@ -108,8 +108,8 @@ hash = "8d54df4cd5d6aa850de86c71072a5c8203826d28bc669e979f34902b21585ebc"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/AIGO Origins 2.x 2.0.14 (Resources).zip"
-hash = "cf8f7be7f8851c6cf48de641922b0d98d9a29f02a630f3e316e743c8764ce2b3"
+file = "config/paxi/resourcepacks/AIGO Origins 2.x 2.0.15 (Resources).zip"
+hash = "bf5f576bb91b89a24b83d0e7de038e151ee32e0c9f50553ef2fd225d08e0ea01"
 
 [[files]]
 file = "config/paxi/resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
