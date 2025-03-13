@@ -73,8 +73,8 @@ file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/structures/overgrown_fa
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/worldgen/structure/overgrown_facility.json"
-hash = "b465f5566a1f88af0c9ca02481ec0034152369977f25193d36817366d7803447"
+file = "config/paxi/datapacks/AIGO Tweaks/data/terramity/worldgen/structure_set/overgrown_facility.json"
+hash = "c940c0e1cd65afe6db13de1187bb8c31fef9bd0f0fe356d22b97f65a51896d13"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/pack.mcmeta"
