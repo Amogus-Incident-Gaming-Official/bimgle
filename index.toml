@@ -57,8 +57,8 @@ file = "config/incontrol/summonaid.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 2.x 2.0.15.zip"
-hash = "73a1aecb2d5610ca1db20b71c21faaba8feeca3eb187b71aed38f7e484d9bf2f"
+file = "config/paxi/datapacks/AIGO Origins 2.x 2.0.16.zip"
+hash = "0c9ba1b34dd1d1c81c8e84974deecff48a3065697cc4e9be88f0e0e996de7f1a"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/irons_spellbooks/advancements/grant_patchouli.json"
