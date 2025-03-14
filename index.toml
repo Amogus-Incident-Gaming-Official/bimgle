@@ -1489,6 +1489,11 @@ hash = "c24febd1fd6db1cf87dc4ba9caf9ecedba0e7326c06456dcce71c390ba98b424"
 metafile = true
 
 [[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
+metafile = true
+
+[[files]]
 file = "mods/underwater-enchanting.pw.toml"
 hash = "68b2fa8768b650a4e2e7d2877c4d4ac1aedd0f047fe412c51a67839caae3c79e"
 metafile = true
