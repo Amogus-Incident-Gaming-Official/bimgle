@@ -61,8 +61,8 @@ file = "config/increasemobcap-common.toml"
 hash = "b13df4afc7620609fc452faf1be454f9822eaa1f09c2874910f68479f4dadf49"
 
 [[files]]
-file = "config/paxi/datapacks/AIGO Origins 2.x 2.0.16.zip"
-hash = "0c9ba1b34dd1d1c81c8e84974deecff48a3065697cc4e9be88f0e0e996de7f1a"
+file = "config/paxi/datapacks/AIGO Origins 2.x 2.0.17.zip"
+hash = "8b53ee6893c97ee641c4e845a42ccd7cea92a62b15735432df3b2205ebacc2d0"
 
 [[files]]
 file = "config/paxi/datapacks/AIGO Tweaks/data/irons_spellbooks/advancements/grant_patchouli.json"
