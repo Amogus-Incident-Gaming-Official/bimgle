@@ -161,8 +161,8 @@ file = "config/paxi/datapacks/Giant v2.5 beeg edition.zip"
 hash = "a176306b5d6d327f04a7503df7bf88af86741903803e4c48aa901c3181c28132"
 
 [[files]]
-file = "config/paxi/datapacks/bimgle Mob Origins 1.1.0.zip"
-hash = "a7a9d62701a951d0d791601a1ab365dd0cddb27a4b312134bd0a13eeae3a81fa"
+file = "config/paxi/datapacks/bimgle Mob Origins 1.0.0.zip"
+hash = "ab57e6feb3ca79f5fa677142e310ddaafd0a5fceffd1cfc898b2cb04a8e391fe"
 
 [[files]]
 file = "config/paxi/datapacks/blissful-origins.pw.toml"
@@ -177,10 +177,6 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/idasbop-1.9.3-1.20.1.zip"
 hash = "f7c36ede0cbd5b35ab3000134df4b19468ae05c650590143fbbc03f649630564"
-
-[[files]]
-file = "config/paxi/datapacks/moving.zip"
-hash = "b0f3d5fcb260f00ee67c3b742080d5c126e36c5ffc0c9857b2902be21501418c"
 
 [[files]]
 file = "config/paxi/datapacks/rustrework.pw.toml"
