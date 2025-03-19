@@ -722,6 +722,11 @@ hash = "286018120c36b3df87f01d2ed7b94a8e0538279a38c81e37fc805200fe2dac84"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "470ef18beaa38edc695c7f20bb10584af0b64b644cc3c055233b72d42b852fcc"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
