@@ -1,0 +1,13 @@
+name = "Can't Sleep Clowns Will Eat Me"
+filename = "cant_sleep_clowns_will_eat_me-1.20.1-1.1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dZDLfmIn/versions/v0Heuu1o/cant_sleep_clowns_will_eat_me-1.20.1-1.1.0.1.jar"
+hash-format = "sha512"
+hash = "3043ef2a8f9d030b4b1cfe1a58af530fd146146e0fd9218ddcdb24a48bf4ea05881cc12cfda590d349b4c77d048a2305905675bfe7f49fdfb6776a2f4e7f2e7f"
+
+[update]
+[update.modrinth]
+mod-id = "dZDLfmIn"
+version = "v0Heuu1o"
