@@ -273,6 +273,10 @@ file = "kubejs/server_scripts/remove_modern_guns.js"
 hash = "c3ba7efa011d692bac38205a797b18984ea1a01e2d219969fd9e9ea1fc5e4aa2"
 
 [[files]]
+file = "kubejs/server_scripts/seaOats_toSeagrassThatch.js"
+hash = "42a29f9a6df21e649cf5d14bca52f6bfd20b24fa602ab18fcba584fa7fd7af8e"
+
+[[files]]
 file = "kubejs/server_scripts/starting_items.js"
 hash = "35cad3348e7ffcf3703552720bb192689b078dfe472688eb4cc992de2884649c"
 
