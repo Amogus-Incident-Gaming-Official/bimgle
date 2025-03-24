@@ -621,6 +621,11 @@ hash = "2681c24f0db051f0f0e988511085ef65d5409863449e924b676fe03b5ce7673c"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "83260a78c1a7e8f24c6bc276a40f4a6f656cc1b63ad13dab1d717cc68ea70890"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-ars-nouveau.pw.toml"
 hash = "170c1a0b6fd950fb590ad3dd351feb2931d9eaa27b53d2c1fe6a765beeeef2e1"
 metafile = true
