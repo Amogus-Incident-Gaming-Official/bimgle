@@ -241,6 +241,10 @@ file = "kubejs/server_scripts/ancientremnantspawn.js"
 hash = "46170c39fc510d30f1b9671fad4d42ceee703afcd5ca8dc8e9f0ce8483354709"
 
 [[files]]
+file = "kubejs/server_scripts/armor_trim_recipes.js"
+hash = "21dfaa6d791c1886c56d37ff8ec0f2b9f456ba10a9be81b1aed4e6681bbc9e61"
+
+[[files]]
 file = "kubejs/server_scripts/bossaltarpickup.js"
 hash = "e4df2d0dcfc26c1b1acccca18124e080479b47206668ef38288c1662c82979c5"
 
