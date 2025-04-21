@@ -1608,6 +1608,11 @@ hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
 metafile = true
 
 [[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
+metafile = true
+
+[[files]]
 file = "mods/underwater-enchanting.pw.toml"
 hash = "68b2fa8768b650a4e2e7d2877c4d4ac1aedd0f047fe412c51a67839caae3c79e"
 metafile = true
